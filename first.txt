@@ -11,3 +11,5 @@ task3: I have created a new branch called features1 and then checkout to that fe
 task 4: divergetn branching example.
 task 5: continuing task 4 , now adding this line to check if it reflects or not.
 task 6: updating file to main to check rebase example.
+
+last task: merge conflicts while merging from remote branch
