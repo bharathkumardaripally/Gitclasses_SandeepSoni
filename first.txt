@@ -18,3 +18,7 @@ last task: merge conflicts while merging from remote branch
 day#2
 
 task#1: updating from U1
+
+
+
+PULL REQUEST TASK UPDATED 
